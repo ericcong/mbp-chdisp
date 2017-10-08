@@ -1,8 +1,8 @@
 Package: mbp-chdisp
 Maintainer: Chen Cong <ericcong@gmail.com>
 Architecture: all
+Section: Utilities
 Depends: udev, x11-xserver-utils
 Priority: optional
-Version: 1.0
+Version: 1.0.0
 Description: Display switcher for Macbook Pro.
-
