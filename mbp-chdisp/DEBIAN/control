@@ -1,0 +1,7 @@
+Package: mbp-chdisp
+Maintainer: Chen Cong <ericcong@gmail.com>
+Architecture: all
+Depends: udev, x11-xserver-utils
+Priority: optional
+Version: 1.0
+Description: Change display for Macbook Pro 8,1.
