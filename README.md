@@ -3,6 +3,10 @@ Display switcher for Macbook Pro.
 
 Tested on Debian 9.1 + Macbook Pro 8,1.
 
+## Installation
+
+Download `mbp-chdisp.deb`, then run: `sudo dpkg -i mbp-chdisp.deb`.
+
 ## Usage
 
 - `mbp-chdisp`: if external display (DP) is connected, then open both external and internal displays, otherwise open internal display only.
